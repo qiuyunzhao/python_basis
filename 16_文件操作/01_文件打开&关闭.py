@@ -28,7 +28,7 @@ file_obj.close()
 # with ... as 语句
 
 # with open(file_name) as file_obj :
-#     在with语句中可以直接使用file_obj来做文件操作
+#     在with语句模块中可以直接使用file_obj来做文件操作
 #     此时这个文件只能在with中使用，一旦with结束则文件会自动close()
 
 file_name = 'file/demo.txt'
