@@ -1,7 +1,7 @@
 import os
 from pprint import pprint
 
-file_path = r_单元测试'D:\PycharmProjects\python_basis\16_文件操作'
+file_path = 'D:\PycharmProjects\python_basis\16_文件操作'
 
 # os.listdir() 获取指定目录的目录结构
 #     需要一个路径作为参数，默认路径为 "." 当前目录

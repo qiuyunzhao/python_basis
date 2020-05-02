@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-from s_matplotlib.exercise1.random_walk import RandomWalk
+from s_可视化.matplotlib_test.random_walk import RandomWalk
 
 
 def draw_trace():

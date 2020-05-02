@@ -10,13 +10,13 @@
 # 可以使用原始字符串
 file_path = 'file/demo.txt'
 file_path = 'file\\demo.txt'
-file_path = r_单元测试'file\demo.txt'
+file_path = 'file\demo.txt'
 
 # 使用..来返回一级目录(当前目录是16_文件操作)
 file_path = '../README.md'
 
 # 使用绝对路径
-file_path = r_单元测试'D:\PycharmProjects\python_basis\16_文件操作\file\demo.txt'
+file_path = 'D:\PycharmProjects\python_basis\16_文件操作\file\demo.txt'
 
 file_obj = open(file_path)  # 打开 file_name 对应的文件
 print(file_obj)
